@@ -16,3 +16,5 @@
 
 .DS_Store
 Gemfile.lock
+# Ignore application configuration
+/config/application.yml
